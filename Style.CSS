@@ -1,0 +1,12 @@
+*{
+background-color: rgb(19, 100, 180);
+  text-align: center;
+}
+
+.fun-facts{
+  display: inline-block;
+}
+
+.favorite-song{
+  text-align: center;
+}
